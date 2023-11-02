@@ -1,1 +1,2 @@
 # megabot
+Initiated the project
